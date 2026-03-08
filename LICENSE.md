@@ -105,4 +105,4 @@ Diese Root‑Lizenz gilt für:
 Mit dem Zugriff auf dieses Repository erkennen Nutzer diese Lizenzbedingungen an.  
 Alle Rechte vorbehalten.
 
-**© Justin Koch Al‑Moh’d**
+**© J.Koch Al‑Moh’d**
