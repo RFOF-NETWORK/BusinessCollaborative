@@ -6,7 +6,7 @@ InterBOxSpiderWeb.NET PRVPNRFAI.py 2025 - 2029
 
 
 # Vier‑Form‑Logik & Validator‑Knoten  
-## nach Justin Koch Al‑Moh’d
+## nach Pinguin gGbR J.Koch Al‑Moh’d
 
 Dieses Repository dokumentiert ein integriertes System aus:
 
@@ -96,5 +96,5 @@ Nutzung, Veränderung oder kommerzielle Verwertung nur mit ausdrücklicher Zusti
 
 ## Erfinder
 
-**Justin Koch Al‑Moh’d**  
+**J.Koch Al‑Moh’d**  
 Erfinder, Künstler, Systemarchitekt
