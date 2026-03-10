@@ -73,15 +73,6 @@ Die Erfindung definiert dies jedoch klar und auditierbar.
 (Zusatz in Klammern zur Klarstellung: „Dezentral gegründet, zentral eingetragen, gemeinnützig [Dezentral] weitergeführt“)
 
 ZENTRAL:
-- gGbR (Dezentral gegründet, zentral eingetragen, gemeinnützig [Dezentral] weitergeführt)
-- gUG (…)
-- gGmbH (…)
-- gAG (…)
-- gSE (…)
-- gEG (…)
-- gStiftung (…)
-- gKdöR (…)
-- gAöR (…)
 
 - e.K.
 - GbR
@@ -98,6 +89,18 @@ ZENTRAL:
 - Stiftung des öffentlichen Rechts
 - KdöR
 - AöR
+
+- gGbR (Dezentral gegründet, zentral eingetragen, gemeinnützig [Dezentral] weitergeführt)
+- gUG (…)
+- gGmbH (…)
+- gAG (…)
+- gSE (…)
+- gEG (…)
+- gStiftung (…)
+- gKdöR (…)
+- gAöR (…)
+
+
 
 - Capital Company
 - Joint Venture
