@@ -6,13 +6,13 @@ InterBOxSpiderWeb.NET PRVPNRFAI.py 2025 - 2029
 
 
 # Vier‑Form‑Logik & Validator‑Knoten  
-## nach Pinguin gGbR J.Koch Al‑Moh’d
+## nach Pinguin gGbR Sato & Koch e. K. I. G.
 
 Dieses Repository dokumentiert ein integriertes System aus:
 
 - Vier‑Form‑Logik (1–4),
 - wirtschaftlich–juristisch–identitär korrekter Struktur,
-- Familien‑Architektur Koch Al‑Moh’d,
+- Familien‑Architektur Sato & Koch,
 - einem Validator‑Knoten als Blockchain‑Login‑System,
 - einer einzigen ausführenden Oberfläche: `index.html`.
 
@@ -191,7 +191,7 @@ Das Dualsystem stellt eine klare, moderne und erweiterbare Struktur bereit, die 
 # Lizenz
 
 **Copyright ©  
-Justin Koch Al‑Moh’d**
+Pinguin gGbR & Sato & Koch e. K. I. G.**
 
 Geschützt sind insbesondere:
 
