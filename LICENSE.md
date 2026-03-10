@@ -130,9 +130,9 @@ DEZENTRAL (Spiegel der zentralen Rechtsformen):
 - gKGaA
 - gGmbH & Co. KG
 - gAG & Co. KG
-- gStiftung des öffentlichen Rechts
-- gKdöR
-- gAöR
+- gStiftung des öffentlichen Rechts (Spiegelung von zentraler Stiftung öffentlichen Rechts)
+- gKdöR (Spiegelung von zentraler KdöR)
+- gAöR (Spiegelung von zentraler AöR)
 
 - gCapital Company
 - gJoint Venture
