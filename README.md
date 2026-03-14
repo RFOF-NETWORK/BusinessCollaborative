@@ -6,7 +6,7 @@ InterBOxSpiderWeb.NET PRVPNRFAI.py 2025 - 2029
 
 
 # Vier‑Form‑Logik & Validator‑Knoten  
-## nach Pinguin gGbR Sato & Koch e. K. I. G.
+## nach Pinguin gUG Sato & Koch e. K. I. G.
 
 Dieses Repository dokumentiert ein integriertes System aus:
 
@@ -33,7 +33,7 @@ Diese Logik wird auf alle Einheiten angewendet.
 
 | Einheit | Rechtsform | Wirtschaftliche Ausrichtung | Identitäre Struktur | Form‑Logik |
 |-------------|----------------|----------------------------------|---------------------------|----------------|
-| Pinguin | gGbR (non‑profit) | Gemeinnützig, kreativ, kulturell | Künstler‑Identität, freie Wirkung | 1 – Dezentral + Zentral |
+| Pinguin | gUG (non‑profit) | Gemeinnützig, kreativ, kulturell | Künstler‑Identität, freie Wirkung | 1 – Dezentral + Zentral |
 | Sato & Koch | e.K. (profit) | Unternehmerisch, gewinnorientiert | Persönliche Eigentümer‑Identität | 1 – Dezentral + Zentral |
 | SolarSupra | UG | Zentral organisiert, institutionell | Unternehmens‑Identität | 2 – Zentral |
 | SolarUnited | UG | Zentral organisiert, institutionell | Unternehmens‑Identität | 2 – Zentral |
@@ -191,7 +191,7 @@ Das Dualsystem stellt eine klare, moderne und erweiterbare Struktur bereit, die 
 # Lizenz
 
 **Copyright ©  
-Pinguin gGbR & Sato & Koch e. K. I. G.**
+Pinguin gUG & Sato & Koch e. K. I. G.**
 
 Geschützt sind insbesondere:
 
